@@ -1,0 +1,16 @@
+[
+{
+  "modid": "storagerevamped",
+  "name": "Storage Revamped",
+  "description": "Banter",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["XeanWolf20"],
+  "credits": "Pahimar",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
