@@ -10,7 +10,7 @@ public class BlockSR extends Block
     public BlockSR(Material material)
     {
         super(material);
-        this.setCreativeTab(CreativeTabSR.SR_TAB);
+        this.setCreativeTab(CreativeTabSR.tabSrItems);
     }
 
     public BlockSR()
