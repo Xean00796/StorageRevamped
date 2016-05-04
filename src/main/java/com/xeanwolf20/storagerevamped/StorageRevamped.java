@@ -16,9 +16,9 @@ public class StorageRevamped
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event)
-   {
+    {
         ConfigHandler.init(event.getSuggestedConfigurationFile());
-   }
+    }
 
     @Mod.EventHandler
     public void init(FMLInitializationEvent event)

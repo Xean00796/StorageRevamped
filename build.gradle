@@ -22,7 +22,7 @@ plugins {
 */
 version = "1.9-1.0"
 group= "com.xeanwolf20.storagerevamped" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "storagerevamped"
+archivesBaseName = "StorageRevamped"
 
 minecraft {
     version = "1.9-12.16.0.1865-1.9"

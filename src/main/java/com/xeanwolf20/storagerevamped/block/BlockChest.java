@@ -1,6 +1,8 @@
 package com.xeanwolf20.storagerevamped.block;
 
-public class BlockChest extends BlockSR
+import net.minecraft.block.ITileEntityProvider;
+
+public abstract class BlockChest extends BlockSR implements ITileEntityProvider
 {
     public BlockChest()
     {
