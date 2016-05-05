@@ -1,10 +1,10 @@
 package com.xeanwolf20.storagerevamped.block;
 
-
 import com.xeanwolf20.storagerevamped.CreativeTab.CreativeTabSR;
 import com.xeanwolf20.storagerevamped.reference.Reference;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
+
 public class BlockSR extends Block
 {
     public BlockSR(Material material)
